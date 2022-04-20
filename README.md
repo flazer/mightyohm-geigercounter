@@ -1,6 +1,6 @@
 # MightyOhm geiger counter OLED + MQTT version
 
-<img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/geigercounter.webp?raw=true" width="60%" alt="Geiger Counter Enclosure" style="width:300px;"/>
+<img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/geigercounter.webp?raw=true" alt="Geiger Counter Enclosure" />
 
 
 ## Introduction
@@ -29,14 +29,14 @@ Links marked with an asterisk (*) are affiliates. This means if you order these 
 ## Images
 Just to let you know, what's inside. Here are "some" views:  
 
-<img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/gc_open01.webp?raw=true" width="60%" alt="Geiger Counter Enclosure" style="width:300px;"/>
-<img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/gc_open02.webp?raw=true" width="60%" alt="Geiger Counter Enclosure" style="width:300px;"/>
+<img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/gc_open01.webp?raw=true" alt="Geiger Counter Enclosure"/>
+<img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/gc_open02.webp?raw=true" alt="Geiger Counter Enclosure"/>
 
+## Schematics
+I don't have made the schematics for the kit itself. For this, you just should take a look here: [https://mightyohm.com/blog/products/geiger-counter](https://mightyohm.com/blog/products/geiger-counter/). But I've done a rough sketch about how I connected the ESP to the OLED, button and serial of the geiger counter:
 
-## Assembly
-To assemble the 3d printed parts. You will need some glue, to glue the inlay parts.
-Because I'm not very good in get parts in correct position, I've printed a centering guide.
-Just place the guide onto the platform and glue the "hill" nearly perfectly centered onto the baseplate. Remove the guide afterwards.
+<img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/fritzing.jpg?raw=true" alt="Geiger Counter Enclosure"/>
+
 
 ## Enclosure
 If you want to print a nice enclosure for this project I've got you covered: 
