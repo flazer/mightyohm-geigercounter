@@ -1,6 +1,6 @@
 # MightyOhm geiger counter
 
-<img src="https://raw.githubusercontent.com/flazer/mightyohm-geigercounter/main/images/geigercounter.webp?raw=true" width="60%" alt="Geiger Counter Enclosure" style="width:300px;"/>
+<img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/geigercounter.webp?raw=true" width="60%" alt="Geiger Counter Enclosure" style="width:300px;"/>
 
 
 ## Introduction
