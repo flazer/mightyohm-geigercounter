@@ -26,6 +26,12 @@ I've added the possibility to add an OLED display and two buttons, so you're abl
 
 Links marked with an asterisk (*) are affiliates. This means if you order these items via amazon, I'll get a very small piece of this (financial) cake. You'll not pay more (not even 1 cent. literally nothing). And I can reinvest the money for new ideas and projects. From the community for the community. :)
 
+## Images
+Just to let you know, what's inside. Here are "some" views:  
+
+<img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/gc_open01.webp?raw=true" width="60%" alt="Geiger Counter Enclosure" style="width:300px;"/>
+<img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/gc_open02.webp?raw=true" width="60%" alt="Geiger Counter Enclosure" style="width:300px;"/>
+
 
 ## Assembly
 To assemble the 3d printed parts. You will need some glue, to glue the inlay parts.
