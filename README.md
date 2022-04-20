@@ -1,4 +1,4 @@
-# MightyOhm geiger counter
+# MightyOhm geiger counter OLED + MQTT version
 
 <img src="https://github.com/flazer/mightyohm-geigercounter/blob/main/images/geigercounter.webp?raw=true" width="60%" alt="Geiger Counter Enclosure" style="width:300px;"/>
 
