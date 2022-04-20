@@ -9,7 +9,7 @@ Time flew by and i forgot about it. A few month ago I found it in one of my “o
 Now, after some weeks of tinkering while streaming this live at [https://www.twitch.tv/chrisfigge](https://www.twitch.tv/chrisfigge), i've done it and added some improvements.
 I've removed the batteryholder, because I want to use the kit stationary and replaced it with a Wemos D1 mini.
 Therefore I'm able to connect the geiger counter to my Home Assistant + I added a small OLED Display, to see all data directly when standing in front of it (+ 10 coolness).
-After the electronics where finished, I've designed an enclosure, based on the one from DerKurt.
+After the electronics where finished, I've designed an enclosure, based on the one from [DerKurt](https://www.printables.com/social/149-derkurt/about).
 Thanks for your awesome work!
 I've added the possibility to add an OLED display and two buttons, so you're able to switch the menus and disabling the ticking sound.
 
